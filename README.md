@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
   <div id="badges">
     <a href="https://vk.com/f1ll_zzz">
-      <img src="https://img.shields.io/badge/vk-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+      <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
