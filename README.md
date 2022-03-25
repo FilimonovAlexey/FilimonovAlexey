@@ -23,6 +23,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: Обо мне :
@@ -36,6 +37,7 @@
 - :mailbox:
 
 ---
+
 ### :hammer_and_wrench: Навыки и технологии :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40" height="40"/>&nbsp;
