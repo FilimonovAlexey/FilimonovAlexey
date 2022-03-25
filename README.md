@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Привет!
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30px"/>
   </h1>
 </div>
