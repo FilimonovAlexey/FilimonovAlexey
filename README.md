@@ -25,7 +25,7 @@
 </div>
 ---
 
-### :woman_technologist: Обо мне :
+### :man_technologist: Обо мне :
 Я только начинаю свой путь в программировании<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 - :telescope: Изучаю программирование в Школе 21 от сбербанка.
 
