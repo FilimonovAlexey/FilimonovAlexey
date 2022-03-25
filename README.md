@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt=""/>
   <h1>
-    Привет!
+    Приветствую Вас!
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -30,6 +30,6 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:
 
 ---
