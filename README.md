@@ -10,6 +10,9 @@
     <a href="https://twitter.com/F1L_zZz">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e">
+      <img src="https://img.shields.io/badge/zen-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Yandex Zen Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt=""/>
   <h1>
