@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt=""/>
   <h1>
     Приветствую Вас!
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px"/>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
