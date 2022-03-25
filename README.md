@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/youtube/youtube-icon.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
 ---
