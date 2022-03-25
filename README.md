@@ -24,11 +24,11 @@
 
 ### :woman_technologist: Обо мне :
 Я только начинаю свой путь в программировании<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Изучаю программирование в Школе 21 от сбербанка.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: В будущем вижу себя frontend разработчиком.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свободное время прохожу курсы на Степик.
 
 - :mailbox:
 
