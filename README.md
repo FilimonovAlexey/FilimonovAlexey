@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
 ---
