@@ -22,7 +22,8 @@
 
 ---
 
-### :man_technologist: Обо мне :
+### :man_technologist: About me:
+
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я проходил интенсив, но не попал на основаное обучение. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день!
 
 - :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
@@ -67,10 +68,3 @@
     </td>
   </tr>
 </table>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
