@@ -4,16 +4,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="300px">
   <div id="badges">
-    <a href="https://t.me/tehnomaniak07">
+    <a href="https://t.me/tehnomaniak07" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram group" />
     </a>
-    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA">
+    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://vk.com/f1ll_zzz">
+    <a href="https://vk.com/f1ll_zzz" target="_blank">
       <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
-    <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e">
+    <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e" target="_blank">
       <img src="https://img.shields.io/badge/zen-red?logo=zen&logoColor=white&style=for-the-badge" alt="Yandex Zen Badge"/>
     </a>
   </div>
@@ -31,7 +31,7 @@
 
 - :zap: Хочу освоить новую проффесию и найти работу.
 
-- :mailbox: alexeyf08@gmail.com
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/f1llzzz)
 
 ---
 
