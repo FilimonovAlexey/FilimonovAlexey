@@ -3,6 +3,12 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="715px">
+  <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
+</div>
+
+---
+
+### 🤝 Социальные сети:
   <div id="badges">
     <a href="https://t.me/tehnomaniak07" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram group" />
@@ -17,8 +23,6 @@
       <img src="https://img.shields.io/badge/zen-red?logo=zen&logoColor=white&style=for-the-badge" alt="Yandex Zen Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
-</div>
 
 ---
 
@@ -45,6 +49,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### 🛠 Инструменты:
 
 <div>
@@ -55,6 +61,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 ### ⚙️ GitHub статистика:
 
