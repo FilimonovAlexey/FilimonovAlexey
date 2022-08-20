@@ -2,7 +2,7 @@
 # Привет, меня зовут Алексей!
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="400px">
   <div id="badges">
     <a href="https://t.me/tehnomaniak07" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram group" />
