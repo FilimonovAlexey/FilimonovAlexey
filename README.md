@@ -3,6 +3,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="715px">
+</div>
+<div>
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
 </div>
 
