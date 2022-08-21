@@ -2,8 +2,7 @@
 # Привет, меня зовут Алексей!
 
 <div id="header" align="center">
-  <img src="https://leonardo.osnova.io/b5fb210b-f404-5c8b-9eeb-6e7b5592387c/-/format/gif/" width="715px">
-  <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif">
+  <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="715px">
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
