@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
   <img src="https://leonardo.osnova.io/b5fb210b-f404-5c8b-9eeb-6e7b5592387c/-/format/mp4/" width="715px">
-  <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="715px">
+  <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif">
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
