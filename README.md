@@ -2,7 +2,7 @@
 # Привет, меня зовут Алексей!
 
 <div id="header" align="center">
-  <img src="https://images.unsplash.com/photo-1561736778-92e52a7769ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" width="846px">
+  <img src="https://images.unsplash.com/photo-1561736778-92e52a7769ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" width="846px" height="250px">
 </div>
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="715px">
