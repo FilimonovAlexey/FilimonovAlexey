@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
     <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e" target="_blank">
-      <img src="https://img.shields.io/badge/zen-red?logo=zen&logoColor=white&style=for-the-badge" alt="Yandex Zen Badge"/>
+      <img src="https://img.shields.io/badge/zen-red?logo=zen.yandex&logoColor=white&style=for-the-badge" alt="Yandex Zen Badge"/>
     </a>
   </div>
 
