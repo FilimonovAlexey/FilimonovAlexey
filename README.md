@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://unsplash.com/photos/0qvBNep1Y04" width="715px">
+</div>
+
 ---
 
 ### 🤝 Социальные сети:
