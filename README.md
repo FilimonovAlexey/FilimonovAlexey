@@ -14,6 +14,7 @@
 ---
 
 ### 🤝 Социальные сети:
+
   <div id="badges">
     <a href="https://t.me/tehnomaniak07" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram group" />
@@ -81,6 +82,10 @@
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
 ---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 
 ### ⚙️ GitHub статистика:
 
