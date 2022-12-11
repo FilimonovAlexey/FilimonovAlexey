@@ -1,27 +1,26 @@
 
 # Привет, меня зовут Алексей!
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
-</div>
-
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
     <a href="https://t.me/tehnomaniak07" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" />
     </a>
     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="32" height="32" alt="Youtube"/>
     </a>
     <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
     </a>
     <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e" target="_blank">
-      <img src="https://img.shields.io/badge/zen-red?logo=zen.yandex&logoColor=white&style=for-the-badge" alt="Yandex Zen Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="32" height="32" alt="Zen Badge"/>
     </a>
+  </div>
+
+  <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
   </div>
 
 ---
