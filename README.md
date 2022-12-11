@@ -1,12 +1,6 @@
 
 # Привет, меня зовут Алексей!
 
-<div id="header" align="center">
-  <img src="https://images.unsplash.com/photo-1561736778-92e52a7769ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" width="846px" height="450px">
-</div>
-<!--<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="715px">
-</div>-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
 </div>
@@ -20,7 +14,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram group" />
     </a>
     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="Youtube"/>
     </a>
     <a href="https://vk.com/f1ll_zzz" target="_blank">
       <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
