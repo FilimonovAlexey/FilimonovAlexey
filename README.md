@@ -1,6 +1,8 @@
 
 # Привет, меня зовут Алексей!
-
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
+</div>
 ---
 
 ### :man_technologist: Обо мне:
@@ -32,10 +34,6 @@
     <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="32" height="32" alt="Zen Badge"/>
     </a>
-  </div>
-
-  <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=your-github-FilimonovAlexey&style=flat-square&color=blue" alt="Количество просмотров"/>
   </div>
 
 ---
