@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram group" />
     </a>
     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="Youtube"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="32" height="32" alt="Youtube"/>
     </a>
     <a href="https://vk.com/f1ll_zzz" target="_blank">
       <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
